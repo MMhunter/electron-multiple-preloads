@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "emitDecoratorMetadata": true,
+    "module": "commonjs",
+    "noImplicitAny": false,
+    "removeComments": false,
+    "moduleResolution": "node",
+    "noUnusedLocals": false,
+    "importHelpers": true,
+    "noUnusedParameters": false,
+    "preserveConstEnums": true,
+    "target": "es2015",
+    "sourceMap": false,
+    "keyofStringsOnly": true,
+    "allowSyntheticDefaultImports": true,
+    "experimentalDecorators": true,
+    "noImplicitReturns": true,
+    "declaration": true,
+    "baseUrl": ".",
+    "outDir": "../lib"
+  }
+}

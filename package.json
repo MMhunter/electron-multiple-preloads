@@ -1,0 +1,23 @@
+{
+  "name": "electron-multiple-preloads",
+  "version": "0.1.13",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish": "tsc -p src"
+  },
+  "peerDependencies": {
+    "electron": "*"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^10.12.18",
+    "electron": "*"
+  },
+  "dependencies": {
+    "yargs": "^12.0.5"
+  },
+  "types": "index.d.ts"
+}
